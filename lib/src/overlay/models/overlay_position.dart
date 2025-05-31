@@ -1,0 +1,1 @@
+enum OverlayPosition { bottomLeft, bottomRight }
